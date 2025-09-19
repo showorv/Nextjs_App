@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "product_name": "Wireless Mouse",
+        "category": "Electronics",
+        "brand": "Logitech",
+        "image": "https://m.media-amazon.com/images/I/61zthhpwllL._SY625_.jpg"
+      },
+      {
+        "id": 2,
+        "product_name": "Running Shoes",
+        "category": "Footwear",
+        "brand": "Nike",
+        "image": "https://m.media-amazon.com/images/I/61zthhpwllL._SY625_.jpg"
+      },
+      {
+        "id": 3,
+        "product_name": "Smartphone",
+        "category": "Electronics",
+        "brand": "Samsung",
+        "image": "https://m.media-amazon.com/images/I/61zthhpwllL._SY625_.jpg"
+      },
+      {
+        "id": 4,
+        "product_name": "Backpack",
+        "category": "Accessories",
+        "brand": "North Face",
+        "image": "https://m.media-amazon.com/images/I/61zthhpwllL._SY625_.jpg"
+      },
+      {
+        "id": 5,
+        "product_name": "Wrist Watch",
+        "category": "Fashion",
+        "brand": "Casio",
+        "image": "https://m.media-amazon.com/images/I/61zthhpwllL._SY625_.jpg"
+      }
+    ]
+  }
+  

@@ -11,6 +11,8 @@ export default function Navbar() {
             <div>
                 <Link href="/about" className='text-2xl mr-2'>About</Link>
                 <Link href="/contact" className='text-2xl mr-2'>Contact</Link>
+                <Link href="/products" className='text-2xl mr-2'>Product</Link>
+                <Link href="/gallery" className='text-2xl mr-2'>Gallery</Link>
                 <Link href="/counter" className='text-2xl '>Counter</Link>
             </div>
         </div>
